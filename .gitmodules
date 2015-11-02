@@ -1,0 +1,3 @@
+[submodule "vim74/bundle/colorschemes"]
+	path = vim74/bundle/colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
